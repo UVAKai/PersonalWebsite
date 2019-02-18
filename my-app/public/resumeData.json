@@ -1,0 +1,170 @@
+{
+  "main": {
+    "name":"Yudan Zou",
+    "occupation":"songwriter and art journalist",
+    "description":"",
+    "image":"profilepic.jpg",
+    "bio":"邹愈丹，青年实验摇滚音乐人，四岁学钢琴，初一时被Oasis的Supersonic与PJ Harvey的Rid of Me带入摇滚世界。本科考入香港中文大学（深圳）学习管理，但从未放弃音乐，就读期间创立了校合唱团，并自学音乐制作。平时的爱好包括哲学、秦代史和外语。目前就读于南加州大学桑顿音乐学院音乐产业硕士项目（电影音乐监督和视觉媒体方向）。她的歌曲探索了超越传统的摇滚乐创作结构，她的歌词批判性讨论了各类社会问题和当代女性生存和爱欲中的矛盾，在本次演出中，她将表演首张专辑Turn Right的曲目。",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "Yudanzou@gmail.com",
+    "phone": "555-555-5555",
+    "address":{
+      "street":"(Your Street)",
+      "city":"Guangzhou,",
+      "state":"Guangdong",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"USC Thornton School of Music",
+        "degree":"Masters in Music Industry",
+        "graduated":"April 2020",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"The Chinese University of Hong Kong, Shenzhen",
+        "degree":"Bachelor of Management",
+        "graduated":"June 2017",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"",
+        "title":" ",
+        "years":"",
+        "description":""
+      },
+      {
+        "company":"",
+        "title":"",
+        "years":"",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"Write Songs",
+        "level":"90%"
+      },
+      {
+        "name":"Piano",
+        "level":"80%"
+      },
+      {
+        "name":"Management",
+        "level":"70%"
+      },
+      {
+        "name":"Photograph",
+        "level":"90%"
+      },
+      {
+        "name":"",
+        "level":""
+      },
+      {
+        "name":"",
+        "level":""
+      },
+      {
+        "name":"",
+        "level":""
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Alert!Dear",
+        "category":"My music!",
+        "image":"1.jpg",
+        "url":"https://soundcloud.com/3mfdadl00xyx/alert-dear"
+      },
+      {
+        "title":"Fidel, Oh-Ey(Demo)",
+        "category":"My music!",
+        "image":"2.jpg",
+        "url":"https://soundcloud.com/3mfdadl00xyx/fidel-oh-eydemo"
+      },
+      {
+        "title":"Turn Right",
+        "category":"My music!",
+        "image":"3.jpg",
+        "url":"https://soundcloud.com/3mfdadl00xyx/sets/turn-right"
+      },
+      {
+        "title":"The Politics of Love",
+        "category":"My music!",
+        "image":"4.jpg",
+        "url":"https://soundcloud.com/3mfdadl00xyx/sets/the-politics-of-love-ep-2-demo"
+      },
+      {
+        "title":"A matter of Safety",
+        "category":"My music!",
+        "image":"5.jpg",
+        "url":"https://soundcloud.com/3mfdadl00xyx/a-matter-of-safety-demo"
+      },
+      {
+        "title":"Position",
+        "category":"My music!",
+        "image":"6.jpg",
+        "url":"https://soundcloud.com/3mfdadl00xyx/position"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you.",
+        "user":"Kai Luo"
+      },
+      {
+        "text":"Fantastic artist!",
+        "user":"Kai Luo"
+      }
+    ]
+  }
+}
