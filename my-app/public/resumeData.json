@@ -1,56 +1,36 @@
 {
   "main": {
-    "name":"Yudan Zou",
-    "occupation":"songwriter and art journalist",
+    "name":"Kai Luo",
+    "occupation":"Computer Engineering Graduate Student in University of Virginia",
     "description":"",
-    "image":"profilepic.jpg",
-    "bio":"邹愈丹，青年实验摇滚音乐人，四岁学钢琴，初一时被Oasis的Supersonic与PJ Harvey的Rid of Me带入摇滚世界。本科考入香港中文大学（深圳）学习管理，但从未放弃音乐，就读期间创立了校合唱团，并自学音乐制作。平时的爱好包括哲学、秦代史和外语。目前就读于南加州大学桑顿音乐学院音乐产业硕士项目（电影音乐监督和视觉媒体方向）。她的歌曲探索了超越传统的摇滚乐创作结构，她的歌词批判性讨论了各类社会问题和当代女性生存和爱欲中的矛盾，在本次演出中，她将表演首张专辑Turn Right的曲目。",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "Yudanzou@gmail.com",
-    "phone": "555-555-5555",
+    "image":"profilePic6.jpg",
+    "bio":"Love to write code and debug.",
+    "contactmessage":"",
+    "email": "kl3pq@virginia.edu",
+    "phone": "434-328-9160",
     "address":{
-      "street":"(Your Street)",
-      "city":"Guangzhou,",
-      "state":"Guangdong",
-      "zip": ""
+      "street":"276 Colonnade Dr, Apt 29",
+      "city":"Charlottesville,",
+      "state":"VA",
+      "zip": "22093"
     },
-    "website": "",
-    "resumedownload":"",
+    "website": "www.mykailuo.com",
+    "resumedownload":"https://drive.google.com/open?id=1mhoU0JX5Alpznkwfjpc4ewFHO8Gw4nhz",
     "social":[
       {
         "name":"facebook",
-        "url":"",
+        "url":"https://www.facebook.com/hustluokai",
         "className":"fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"",
+        "url":"https://www.linkedin.com/in/kai-luo-21a071116/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"",
+        "url":"https://github.com/UVAKai",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"",
-        "className":"fa fa-skype"
       }
     ]
   },
@@ -58,112 +38,82 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"USC Thornton School of Music",
-        "degree":"Masters in Music Industry",
+        "school":"University of Virginia",
+        "degree":"Master in Computer Engineering",
         "graduated":"April 2020",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":""
       },
       {
-        "school":"The Chinese University of Hong Kong, Shenzhen",
-        "degree":"Bachelor of Management",
+        "school":"Huazhong University of Science and Technology",
+        "degree":"Master of Optical Engineering, Bachelor of Optical Engineering",
         "graduated":"June 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":""
       }
     ],
     "work":[
       {
-        "company":"",
-        "title":" ",
-        "years":"",
-        "description":""
-      },
-      {
-        "company":"",
-        "title":"",
-        "years":"",
-        "description":""
+        "company":"Accelink Inc",
+        "title":"Software Engineer Intern",
+        "years":"July 2017 - September 2017",
+        "description":"Built a python web scraper to find target buyers of our companies' product, store their information in MongoDB and remind the salesman with emails when big order shows up.  Developed a website using React and display the target buyers' information. Help 139 salesmen save 2 hours everyday."
       }
     ],
     "skills":[
       {
-        "name":"Write Songs",
-        "level":"90%"
+        "name":"Java",
+        "level":"50%"
       },
       {
-        "name":"Piano",
-        "level":"80%"
+        "name":"Python",
+        "level":"50%"
       },
       {
-        "name":"Management",
-        "level":"70%"
+        "name":"HTML/CSS",
+        "level":"40%"
       },
       {
-        "name":"Photograph",
-        "level":"90%"
+        "name":"JavaScript",
+        "level":"50%"
       },
       {
-        "name":"",
-        "level":""
+        "name":"SQL",
+        "level":"50%"
       },
       {
-        "name":"",
-        "level":""
+        "name":"AWS",
+        "level":"40%"
       },
       {
-        "name":"",
-        "level":""
+        "name":"React",
+        "level":"30%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Alert!Dear",
-        "category":"My music!",
+        "title":"Charlottesville forum",
+        "category":"web development",
         "image":"1.jpg",
-        "url":"https://soundcloud.com/3mfdadl00xyx/alert-dear"
+        "url":"http://www.cvilleforum.com"
       },
       {
-        "title":"Fidel, Oh-Ey(Demo)",
-        "category":"My music!",
+        "title":"Predict Yelp Ratings Using Machine Learning",
+        "category":"machine learning",
         "image":"2.jpg",
-        "url":"https://soundcloud.com/3mfdadl00xyx/fidel-oh-eydemo"
+        "url":"https://github.com/UVAKai/YelpStarPrediction"
       },
       {
-        "title":"Turn Right",
-        "category":"My music!",
+        "title":"Rail-Straightness-Measurement-System",
+        "category":"Optical Engineering",
         "image":"3.jpg",
-        "url":"https://soundcloud.com/3mfdadl00xyx/sets/turn-right"
+        "url":"https://github.com/UVAKai/Rail-Straightness-Measurement-System"
       },
       {
-        "title":"The Politics of Love",
-        "category":"My music!",
+        "title":"Instructional Software of Laser Experiment",
+        "category":"Optical Engineering",
         "image":"4.jpg",
-        "url":"https://soundcloud.com/3mfdadl00xyx/sets/the-politics-of-love-ep-2-demo"
-      },
-      {
-        "title":"A matter of Safety",
-        "category":"My music!",
-        "image":"5.jpg",
-        "url":"https://soundcloud.com/3mfdadl00xyx/a-matter-of-safety-demo"
-      },
-      {
-        "title":"Position",
-        "category":"My music!",
-        "image":"6.jpg",
-        "url":"https://soundcloud.com/3mfdadl00xyx/position"
-      }
-    ]
-  },
-  "testimonials":{
-    "testimonials":[
-      {
-        "text":"Here you should write some nice things that someone has said about you.",
-        "user":"Kai Luo"
-      },
-      {
-        "text":"Fantastic artist!",
-        "user":"Kai Luo"
+        "url":"https://github.com/UVAKai/Instructional-Software-of-Laser-Experiments"
       }
     ]
   }
